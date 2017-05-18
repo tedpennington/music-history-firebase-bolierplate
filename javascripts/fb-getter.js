@@ -2,9 +2,9 @@
 
 function getKey() {
   return {
-    key: "",
-    url: "",
-    bucketUrl: ""
+    apiKey: "reallyLongValue",
+    authDomain: "something.firebaseapp.com",
+    databaseURL: "https://something.firebaseio.com"
   };
 }
 
