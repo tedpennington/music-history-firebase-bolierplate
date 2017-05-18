@@ -1,4 +1,4 @@
-# Music History - Burning Down the House
+# Music History or Burning Down the House
 Grunt, Browserify, Sass, Firebase3
 
 ### To run: 
