@@ -8,12 +8,16 @@
 // require("firebase/database");
 
 // var config = {
-//   apiKey: fbData.key,
-//   databaseURL: fbData.url,
-//   authDomain: fbData.url,
-//   storageBucket: fbData.bucketUrl
+//   apiKey: fbData.apiKey,
+//   authDomain: fbData.authDomain,
+//   databaseURL: fbData.databaseURL
 // };
 
 // // firebase.initializeApp(config);
+
+// firebase.getFBsettings = function(){
+//	 console.log("getFBsettings", config);
+//	 return config;
+// };
 
 // module.exports = firebase;
