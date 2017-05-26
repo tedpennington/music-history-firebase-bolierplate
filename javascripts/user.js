@@ -5,4 +5,8 @@
 
 // }
 
-// module.exports = logInGoogle;
+// function logOut(){
+
+// }
+
+// module.exports = {logInGoogle, logOut};
