@@ -13,3 +13,4 @@ Grunt, Browserify, Sass, Firebase3
 + Add authentication logic to `user.js`
 + Can you become a Firebase Ninja Unicorn? Oh yeah!
     + Else: http://www.cornify.com/
++ You will the answers to your questions in another branch.
