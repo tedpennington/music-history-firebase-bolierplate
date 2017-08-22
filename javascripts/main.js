@@ -10,6 +10,7 @@ let $ = require('jquery'),
 function loadSongsToDOM() {
   console.log("Need to load some songs, Buddy");
 }
+
 loadSongsToDOM(); //<--Move to auth section after adding login btn
 
 // Send newSong data to db then reload DOM with updated song data
@@ -52,4 +53,15 @@ $("#add-song").click(function() {
   .then(function(songForm) {
     $(".uiContainer--wrapper").html(songForm);
   });
+});
+
+
+$("#auth-btn").click(function(){
+  console.log("clicked on Signin");
+
+});
+
+$("#logout").click(function(){
+  console.log("logout clicked");
+
 });

@@ -9,7 +9,7 @@ let $ = require('jquery'),
 // DB interaction using Firebase REST API
 // ****************************************
 
-function getSongs(callback) {
+function getSongs(user) {
 
 }
 
